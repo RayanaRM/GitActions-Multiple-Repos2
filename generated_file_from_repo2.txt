@@ -1,0 +1,6 @@
+The file 'generated_file_from_repo1.txt' was successfully read.
+
+Content of the file:
+---
+Output Generated file
+---
